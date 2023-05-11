@@ -1,4 +1,6 @@
-# interestingtools
+# Artificial Intelligecnce Tools From April 2023
+
+Derived from a list of tools circulating on Instagram and Medium.  Now with links added via using the GraphQL interface from [producthunt.com](https://www.producthunt.com/).
 
 * [Beautiful.AI](https://www.beautiful.ai/): AI-powered presentations
 * [Autogpt by SamurAI](https://autogpt.thesamur.ai): AutoGPT in the browser
