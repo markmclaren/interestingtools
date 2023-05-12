@@ -1,3 +1,12 @@
+## Interesting lists of links:
+
+* [Developer tools](developer-tools.md)
+* [GitHub](github.md)
+* [Interesting AI developer tools](interest.md)
+* [Open Source](open-source.md)
+* [Software Engineering](software-engineering.md)
+
+
 # Artificial Intelligence Tools From April 2023
 
 Derived from a list of tools circulating on Instagram, [Medium](https://medium.com/mlearning-ai/aprils-100-hottest-ai-tools-you-don-t-want-to-miss-top-ai-tools-check-of-april-s-roundup-a8285248bbe3), [Scribd](https://www.scribd.com/document/641944783/100-Best-AI-Tools-from-April-1682783099-2023-04-29-15-45-10) and [other](https://crowd.inc/blog/100-best-ai-tools) [places](https://www.easy-tutorials.com/discover-the-top-101-new-ai-websites-you-need-to-know/).  Now with links added via using the GraphQL interface from [producthunt.com](https://www.producthunt.com/).
